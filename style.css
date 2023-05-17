@@ -1,0 +1,196 @@
+.inp{
+    font-size: 20px;
+    font-family: tahoma;
+    text-align: center;
+    padding-bottom: 20px;
+    color: #ffff;
+    display: block;
+    margin-top: -10%;
+    /* border: 2px solid white; */
+    
+    
+}
+.main{
+    margin-left: 30%;
+    display: flex;
+    margin-top: 10%;
+    align-items: center;
+}
+h3{
+    font-size: 45px;
+    font-family: tahoma;
+    color:#ffff;
+    
+}
+body{
+    background-image:url('./loginImg.jpg')
+}
+
+.user{
+    width: 50%;
+    height: 20%;
+    font-size: 20px;
+    margin-top: 50px;
+    border: 2px solid darkblue;
+    
+}
+#submit{
+    font-size: 20px;
+    background-color: beige;
+    color:darkblue;
+    font-family: tahoma;
+    margin-left: 40%;
+    margin-bottom: 20px;
+    width: 80px;
+    
+    
+
+    }
+    .B1{
+        border: 2px solid wheat;
+        padding: 10px;
+    }
+#submit:hover{
+    background-color: grey;
+    color: #ffff;
+    
+}
+#SignUp:hover{
+    background-color: grey;
+    color: #ffff;
+}
+
+#SignUp{
+    font-size: 20px;
+    background-color: beige;
+    color:darkblue;
+    font-family: tahoma;
+    width: 80px;
+   text-align: center;
+
+}
+.fildS{
+        margin: 10%;
+        margin-left: 30px;
+        background-color: aliceblue;
+        margin-top: -2%;
+    }
+.fild{
+        /* border: 5px solid red; */
+        margin-top: -50px;
+        padding-top: 10%;
+        
+
+    }
+/* .fild h3{
+    margin-top: 20px;
+} */
+
+.fa-facebook,.fa-twitter{
+        color:darkblue;
+        font-size: 40px;
+        /* margin-left: 40%; */
+        padding-left: 20px;
+    
+}
+.fa-instagram{
+    color: red;
+    font-size: 40px;
+    padding-left: 20px;
+
+}
+.fa-user{
+    color: grey;
+    font-size: 40px;
+    padding-left: 20px;
+}
+.fa-instagram:hover{
+    color:#ffff;
+}
+.fa-facebook:hover{
+    color:blue;
+}
+.fa-twitter:hover{
+    color: blue;
+}
+.fa-user:hover{
+    color: #ffff;
+}
+
+
+.icon{
+    /* margin-left: 20%; */
+    /* border: 5px solid red; */
+    padding-left: 40px;
+    margin-left: 28%;
+    padding: 20px;
+    margin-top: 22%;
+    
+}
+.fildS{
+    width: 50%;
+    background-image: url(./logback.jpg);
+    /* margin-top: -27%; */
+}
+
+            /* SignUp CSS Start here */
+.main1{
+    /* text-align: center; */
+    width: 50%;
+    margin-top: 5%;
+}
+
+.tableSing{
+    width: 50%;
+    border: 5px solid lightblue;
+    text-align: center;
+    margin-left: 70%;    
+    margin-top: 5%;
+    padding: 5%;
+    font-size: 30px;
+    background-color:lightblue;
+    margin-bottom: -5%;
+}
+.tableSing input{
+    font-size: 20px;
+    margin-top: 30px;
+    border: 2px solid whitesmoke;
+    padding: 10px;
+    text-decoration: none;
+    /* background-image: url(./logback.jpg); */
+}
+h3{
+    color:White;
+    margin-top: -10%;
+}
+.msg{
+    color: red;
+    font-size: 20px;
+    margin-top: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightblue;
+    border: 2px solid darkblue;
+    padding: 5px;
+    margin-bottom: -10%;   
+}
+.Btn2{
+    background-color: darkblue;
+    color:#ffff;
+    font-weight: bold;
+    border: 2px solid #ffff;
+}
+.Btn2:hover{
+    background-color: grey;
+    color: #ffff;
+}
+.tableSing{
+    background-image: url(./logback.jpg);
+}
+.sin{
+        font-size: 40px;
+        color:darkblue;
+        text-align: center;
+        margin-left: 86%;
+        margin-top: 2%;
+        margin-bottom: -12%;
+}
